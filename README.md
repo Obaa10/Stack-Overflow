@@ -131,15 +131,3 @@ src/
 
 - `GET /search/questions` - Query base search with filter.
 - `GET /search/questions/similar` - Search for similar questions.
-
-## Testing
-
-Run tests using:
-
-```bash
-npm run test
-```
-
-## License
-
-This project is for interview purposes and is not intended for production use.
