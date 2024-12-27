@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# NestJS build output
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Testing outputs
+coverage/
+jest-test-results.json
+
+# Debug and IntelliJ settings
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.tgz
+.vs/
